@@ -81,17 +81,13 @@
 [I 12:14:16.931 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
 [I 12:20:56.848 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
 [I 12:27:30.692 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
-pturer : No Content-Disposition for /api/contents?type=directory&_=1587172777888
-10.0.0.2:56000: GET http://127.0.0.1:8888/api/contents?type=directory&_=1587172777888
-             << 200 OK 4.75k
-10.0.0.2:56000: clientdisconnect
-10.0.0.2:56034: clientconnect
-DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587172777889
-10.0.0.2:56034: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587172777889
-             << 200 OK 491b
-10.0.0.2:56034: clientdisconnect
-10.0.0.2:56122: clientconnect
-DBE Capturer : No Content-Disposition for /api/contents?type=directory&_=1587172777890
+[I 12:35:47.804 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 12:41:56.581 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 12:50:56.580 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 12:57:36.311 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 13:04:16.576 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 13:12:35.686 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+ for /api/contents?type=directory&_=1587172777890
 10.0.0.2:56122: GET http://127.0.0.1:8888/api/contents?type=directory&_=1587172777890
              << 200 OK 4.75k
 10.0.0.2:56122: clientdisconnect
@@ -17556,6 +17552,1012 @@ DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan
 10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
 10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
 10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:41812: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587172778173
+10.0.0.2:41812: GET http://127.0.0.1:8888/api/sessions?_=1587172778173
+             << 200 OK 400b
+10.0.0.2:41812: clientdisconnect
+10.0.0.2:41826: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587172778175
+10.0.0.2:41826: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587172778175
+             << 200 OK 1.26k
+10.0.0.2:41842: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587172778174
+10.0.0.2:41842: GET http://127.0.0.1:8888/api/terminals?_=1587172778174
+             << 200 OK 15b
+10.0.0.2:41826: clientdisconnect
+10.0.0.2:41842: clientdisconnect
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:41994: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173188862
+10.0.0.2:41994: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173188862
+             << 200 OK 293b
+10.0.0.2:41994: clientdisconnect
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:42016: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:42016: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:42016: clientdisconnect
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:45920: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587172778176
+10.0.0.2:45920: GET http://127.0.0.1:8888/api/sessions?_=1587172778176
+             << 200 OK 400b
+10.0.0.2:45920: clientdisconnect
+10.0.0.2:45928: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587172778178
+10.0.0.2:45928: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587172778178
+             << 200 OK 1.26k
+10.0.0.2:45928: clientdisconnect
+10.0.0.2:45954: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587172778177
+10.0.0.2:45954: GET http://127.0.0.1:8888/api/terminals?_=1587172778177
+             << 200 OK 15b
+10.0.0.2:45954: clientdisconnect
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:36086 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:33650: clientconnect
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587172778179
+10.0.0.2:33650: GET http://127.0.0.1:8888/api/sessions?_=1587172778179
+             << 200 OK 400b
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:33650: clientdisconnect
+10.0.0.2:33874: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587172778180
+10.0.0.2:33874: GET http://127.0.0.1:8888/api/terminals?_=1587172778180
+             << 200 OK 15b
+10.0.0.2:33896: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587172778181
+10.0.0.2:33896: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587172778181
+             << 200 OK 1.26k
+10.0.0.2:33874: clientdisconnect
+10.0.0.2:33896: clientdisconnect
+10.0.0.2:35846: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173188863
+10.0.0.2:35846: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173188863
+             << 200 OK 293b
+10.0.0.2:35846: clientdisconnect
+10.0.0.2:36136: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:36136: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:36136: clientdisconnect
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:36086 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:57142: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173188864
+10.0.0.2:57142: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173188864
+             << 200 OK 293b
+10.0.0.2:57142: clientdisconnect
+10.0.0.2:57144: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:57144: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:57144: clientdisconnect
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:36086 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:33386: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173188865
+10.0.0.2:33386: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173188865
+             << 200 OK 293b
+10.0.0.2:33386: clientdisconnect
+10.0.0.2:33402: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:33402: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:33402: clientdisconnect
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:36086 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:36086 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+10.0.0.2:36086 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:37804: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173188866
+10.0.0.2:37804: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173188866
+             << 200 OK 293b
+10.0.0.2:37804: clientdisconnect
+10.0.0.2:37814: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:37814: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:37814: clientdisconnect
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:36086 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:46316: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173188867
+10.0.0.2:46316: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173188867
+             << 200 OK 293b
+10.0.0.2:46316: clientdisconnect
+10.0.0.2:46322: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:46322: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:46322: clientdisconnect
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:36086: Ping Received from server
+  -> 
+::ffff:10.0.0.2:36086: Pong Received from client
+  -> 
+10.0.0.2:46968: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587172778182
+10.0.0.2:46968: GET http://127.0.0.1:8888/api/sessions?_=1587172778182
+             << 200 OK 400b
+10.0.0.2:46968: clientdisconnect
+10.0.0.2:46980: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587172778184
+10.0.0.2:46980: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587172778184
+             << 200 OK 1.26k
+10.0.0.2:46984: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587172778183
+10.0.0.2:46984: GET http://127.0.0.1:8888/api/terminals?_=1587172778183
+             << 200 OK 15b
+10.0.0.2:46980: clientdisconnect
+10.0.0.2:46984: clientdisconnect
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
 10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
 10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
 10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
