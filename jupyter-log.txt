@@ -348,43 +348,26 @@
 [I 16:38:51.452 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
 [I 16:46:13.927 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
 [I 16:53:16.438 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
-or /api/contents/results?type=directory&_=1587172777934
-10.0.0.2:57818: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587172777934
-             << 200 OK 1018b
-10.0.0.2:57820: clientdisconnect
-10.0.0.2:57818: clientdisconnect
-10.0.0.2:57848: clientconnect
-DBE Capturer : No Content-Disposition for /api/contents/results/Untitled%20Folder
-10.0.0.2:57848: PATCH http://127.0.0.1:8888/api/contents/results/Untitled%20Folder
-             << 200 OK 266b
-10.0.0.2:57848: clientdisconnect
-10.0.0.2:57850: clientconnect
-DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587172777936
-10.0.0.2:57850: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587172777936
-             << 200 OK 1k
-10.0.0.2:57850: clientdisconnect
-10.0.0.2:57854: clientconnect
-10.0.0.2:57868: clientconnect
-10.0.0.2:57870: clientconnect
-DBE Capturer : No Content-Disposition for /api/terminals?_=1587172777938
-10.0.0.2:57870: GET http://127.0.0.1:8888/api/terminals?_=1587172777938
-             << 200 OK 2b
-DBE Capturer : No Content-Disposition for /api/sessions?_=1587172777937
-10.0.0.2:57868: GET http://127.0.0.1:8888/api/sessions?_=1587172777937
-             << 200 OK 2b
-10.0.0.2:57870: clientdisconnect
-10.0.0.2:57868: clientdisconnect
-10.0.0.2:57884: clientconnect
-DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587172777939
-10.0.0.2:57884: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587172777939
-             << 200 OK 1k
-10.0.0.2:57884: clientdisconnect
-10.0.0.2:57886: clientconnect
-10.0.0.2:57888: clientconnect
-DBE Capturer : No Content-Disposition for /api/contents/results
-10.0.0.2:57886: POST http://127.0.0.1:8888/api/contents/results
-             << 201 Created 256b
-DBE Capturer : No Content-Disposition for /api/sessions?_=1587172777940
+[I 16:59:49.242 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 17:07:10.905 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 17:14:10.856 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 17:21:10.803 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 17:28:10.852 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 17:35:15.933 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 17:42:11.383 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 17:49:16.457 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 17:57:08.222 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 18:05:40.645 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 18:11:40.578 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 18:20:43.610 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 18:25:43.154 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 18:35:40.564 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 18:40:25.882 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 18:47:36.774 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 18:54:40.376 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 19:01:46.410 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+[I 19:09:45.863 NotebookApp] Saving file at /inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+sions?_=1587172777940
 10.0.0.2:57888: GET http://127.0.0.1:8888/api/sessions?_=1587172777940
              << 200 OK 2b
 10.0.0.2:57886: clientdisconnect
@@ -55337,3 +55320,3123 @@ DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan
 10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
 10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
 10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:34750: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155465
+10.0.0.2:34750: GET http://127.0.0.1:8888/api/sessions?_=1587280155465
+             << 200 OK 400b
+10.0.0.2:34750: clientdisconnect
+10.0.0.2:34754: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155466
+10.0.0.2:34754: GET http://127.0.0.1:8888/api/terminals?_=1587280155466
+             << 200 OK 15b
+10.0.0.2:34756: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155467
+10.0.0.2:34756: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155467
+             << 200 OK 3.08k
+10.0.0.2:34754: clientdisconnect
+10.0.0.2:34756: clientdisconnect
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:35384: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155468
+10.0.0.2:35384: GET http://127.0.0.1:8888/api/sessions?_=1587280155468
+             << 200 OK 400b
+10.0.0.2:35384: clientdisconnect
+10.0.0.2:35386: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155469
+10.0.0.2:35386: GET http://127.0.0.1:8888/api/terminals?_=1587280155469
+             << 200 OK 15b
+10.0.0.2:35388: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155470
+10.0.0.2:35388: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155470
+             << 200 OK 3.08k
+10.0.0.2:35386: clientdisconnect
+10.0.0.2:35388: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:36030: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155471
+10.0.0.2:36030: GET http://127.0.0.1:8888/api/sessions?_=1587280155471
+             << 200 OK 400b
+10.0.0.2:36030: clientdisconnect
+10.0.0.2:36038: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155472
+10.0.0.2:36038: GET http://127.0.0.1:8888/api/terminals?_=1587280155472
+             << 200 OK 15b
+10.0.0.2:36040: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155473
+10.0.0.2:36040: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155473
+             << 200 OK 3.08k
+10.0.0.2:36038: clientdisconnect
+10.0.0.2:36040: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:36200: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189247
+10.0.0.2:36200: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189247
+             << 200 OK 293b
+10.0.0.2:36200: clientdisconnect
+10.0.0.2:36212: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:36212: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:36212: clientdisconnect
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:36532: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155474
+10.0.0.2:36532: GET http://127.0.0.1:8888/api/sessions?_=1587280155474
+             << 200 OK 400b
+10.0.0.2:36532: clientdisconnect
+10.0.0.2:36534: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155475
+10.0.0.2:36534: GET http://127.0.0.1:8888/api/terminals?_=1587280155475
+             << 200 OK 15b
+10.0.0.2:36538: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155476
+10.0.0.2:36538: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155476
+             << 200 OK 3.08k
+10.0.0.2:36534: clientdisconnect
+10.0.0.2:36538: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:37082: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155477
+10.0.0.2:37082: GET http://127.0.0.1:8888/api/sessions?_=1587280155477
+             << 200 OK 400b
+10.0.0.2:37082: clientdisconnect
+10.0.0.2:37084: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155478
+10.0.0.2:37084: GET http://127.0.0.1:8888/api/terminals?_=1587280155478
+             << 200 OK 15b
+10.0.0.2:37086: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155479
+10.0.0.2:37086: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155479
+             << 200 OK 3.08k
+10.0.0.2:37084: clientdisconnect
+10.0.0.2:37086: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:37480: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155480
+10.0.0.2:37480: GET http://127.0.0.1:8888/api/sessions?_=1587280155480
+             << 200 OK 400b
+10.0.0.2:37480: clientdisconnect
+10.0.0.2:37486: clientconnect
+10.0.0.2:37488: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155482
+10.0.0.2:37486: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155482
+             << 200 OK 3.08k
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155481
+10.0.0.2:37488: GET http://127.0.0.1:8888/api/terminals?_=1587280155481
+             << 200 OK 15b
+10.0.0.2:37486: clientdisconnect
+10.0.0.2:37488: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:37836: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155483
+10.0.0.2:37836: GET http://127.0.0.1:8888/api/sessions?_=1587280155483
+             << 200 OK 400b
+10.0.0.2:37836: clientdisconnect
+10.0.0.2:37840: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155484
+10.0.0.2:37840: GET http://127.0.0.1:8888/api/terminals?_=1587280155484
+             << 200 OK 15b
+10.0.0.2:37842: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155485
+10.0.0.2:37842: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155485
+             << 200 OK 3.08k
+10.0.0.2:37840: clientdisconnect
+10.0.0.2:37842: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:38228: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155486
+10.0.0.2:38228: GET http://127.0.0.1:8888/api/sessions?_=1587280155486
+             << 200 OK 400b
+10.0.0.2:38228: clientdisconnect
+10.0.0.2:38230: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155487
+10.0.0.2:38230: GET http://127.0.0.1:8888/api/terminals?_=1587280155487
+             << 200 OK 15b
+10.0.0.2:38232: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155488
+10.0.0.2:38232: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155488
+             << 200 OK 3.08k
+10.0.0.2:38230: clientdisconnect
+10.0.0.2:38232: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:38592: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155489
+10.0.0.2:38592: GET http://127.0.0.1:8888/api/sessions?_=1587280155489
+             << 200 OK 400b
+10.0.0.2:38592: clientdisconnect
+10.0.0.2:38594: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155490
+10.0.0.2:38594: GET http://127.0.0.1:8888/api/terminals?_=1587280155490
+             << 200 OK 15b
+10.0.0.2:38596: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155491
+10.0.0.2:38596: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155491
+             << 200 OK 3.08k
+10.0.0.2:38594: clientdisconnect
+10.0.0.2:38596: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:38932: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155492
+10.0.0.2:38932: GET http://127.0.0.1:8888/api/sessions?_=1587280155492
+             << 200 OK 400b
+10.0.0.2:38932: clientdisconnect
+10.0.0.2:38936: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155493
+10.0.0.2:38936: GET http://127.0.0.1:8888/api/terminals?_=1587280155493
+             << 200 OK 15b
+10.0.0.2:38938: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155494
+10.0.0.2:38938: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155494
+             << 200 OK 3.08k
+10.0.0.2:38936: clientdisconnect
+10.0.0.2:38938: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:39246: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189248
+10.0.0.2:39246: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189248
+             << 200 OK 293b
+10.0.0.2:39246: clientdisconnect
+10.0.0.2:39248: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:39248: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:39248: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:39378: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155495
+10.0.0.2:39378: GET http://127.0.0.1:8888/api/sessions?_=1587280155495
+             << 200 OK 400b
+10.0.0.2:39378: clientdisconnect
+10.0.0.2:39390: clientconnect
+10.0.0.2:39392: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155496
+10.0.0.2:39390: GET http://127.0.0.1:8888/api/terminals?_=1587280155496
+             << 200 OK 15b
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155497
+10.0.0.2:39392: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155497
+             << 200 OK 3.08k
+10.0.0.2:39390: clientdisconnect
+10.0.0.2:39392: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:39754: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155498
+10.0.0.2:39754: GET http://127.0.0.1:8888/api/sessions?_=1587280155498
+             << 200 OK 400b
+10.0.0.2:39754: clientdisconnect
+10.0.0.2:39758: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155499
+10.0.0.2:39758: GET http://127.0.0.1:8888/api/terminals?_=1587280155499
+             << 200 OK 15b
+10.0.0.2:39760: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155500
+10.0.0.2:39760: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155500
+             << 200 OK 3.08k
+10.0.0.2:39758: clientdisconnect
+10.0.0.2:39760: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:40132: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155501
+10.0.0.2:40132: GET http://127.0.0.1:8888/api/sessions?_=1587280155501
+             << 200 OK 400b
+10.0.0.2:40132: clientdisconnect
+10.0.0.2:40134: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155502
+10.0.0.2:40134: GET http://127.0.0.1:8888/api/terminals?_=1587280155502
+             << 200 OK 15b
+10.0.0.2:40136: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155503
+10.0.0.2:40136: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155503
+             << 200 OK 3.08k
+10.0.0.2:40134: clientdisconnect
+10.0.0.2:40136: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:40570: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155504
+10.0.0.2:40570: GET http://127.0.0.1:8888/api/sessions?_=1587280155504
+             << 200 OK 400b
+10.0.0.2:40570: clientdisconnect
+10.0.0.2:40574: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155505
+10.0.0.2:40574: GET http://127.0.0.1:8888/api/terminals?_=1587280155505
+             << 200 OK 15b
+10.0.0.2:40576: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155506
+10.0.0.2:40576: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155506
+             << 200 OK 3.08k
+10.0.0.2:40574: clientdisconnect
+10.0.0.2:40576: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:40960: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155507
+10.0.0.2:40960: GET http://127.0.0.1:8888/api/sessions?_=1587280155507
+             << 200 OK 400b
+10.0.0.2:40960: clientdisconnect
+10.0.0.2:40964: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155508
+10.0.0.2:40964: GET http://127.0.0.1:8888/api/terminals?_=1587280155508
+             << 200 OK 15b
+10.0.0.2:40978: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155509
+10.0.0.2:40978: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155509
+             << 200 OK 3.08k
+10.0.0.2:40964: clientdisconnect
+10.0.0.2:40978: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:41380: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155510
+10.0.0.2:41380: GET http://127.0.0.1:8888/api/sessions?_=1587280155510
+             << 200 OK 400b
+10.0.0.2:41380: clientdisconnect
+10.0.0.2:41390: clientconnect
+10.0.0.2:41392: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155512
+10.0.0.2:41392: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155512
+             << 200 OK 3.08k
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155511
+10.0.0.2:41390: GET http://127.0.0.1:8888/api/terminals?_=1587280155511
+             << 200 OK 15b
+10.0.0.2:41392: clientdisconnect
+10.0.0.2:41390: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:41802: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155513
+10.0.0.2:41802: GET http://127.0.0.1:8888/api/sessions?_=1587280155513
+             << 200 OK 400b
+10.0.0.2:41802: clientdisconnect
+10.0.0.2:41804: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155514
+10.0.0.2:41804: GET http://127.0.0.1:8888/api/terminals?_=1587280155514
+             << 200 OK 15b
+10.0.0.2:41806: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155515
+10.0.0.2:41806: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155515
+             << 200 OK 3.08k
+10.0.0.2:41804: clientdisconnect
+10.0.0.2:41806: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:42246: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189249
+10.0.0.2:42246: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189249
+             << 200 OK 293b
+10.0.0.2:42246: clientdisconnect
+10.0.0.2:42248: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:42248: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:42248: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:42338: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155516
+10.0.0.2:42338: GET http://127.0.0.1:8888/api/sessions?_=1587280155516
+             << 200 OK 400b
+10.0.0.2:42338: clientdisconnect
+10.0.0.2:42350: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155517
+10.0.0.2:42350: GET http://127.0.0.1:8888/api/terminals?_=1587280155517
+             << 200 OK 15b
+10.0.0.2:42352: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155518
+10.0.0.2:42352: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155518
+             << 200 OK 3.08k
+10.0.0.2:42350: clientdisconnect
+10.0.0.2:42352: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:42666: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155519
+10.0.0.2:42666: GET http://127.0.0.1:8888/api/sessions?_=1587280155519
+             << 200 OK 400b
+10.0.0.2:42666: clientdisconnect
+10.0.0.2:42668: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155520
+10.0.0.2:42668: GET http://127.0.0.1:8888/api/terminals?_=1587280155520
+             << 200 OK 15b
+10.0.0.2:42670: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155521
+10.0.0.2:42670: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155521
+             << 200 OK 3.08k
+10.0.0.2:42668: clientdisconnect
+10.0.0.2:42670: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:43114: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155522
+10.0.0.2:43114: GET http://127.0.0.1:8888/api/sessions?_=1587280155522
+             << 200 OK 400b
+10.0.0.2:43114: clientdisconnect
+10.0.0.2:43118: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155523
+10.0.0.2:43118: GET http://127.0.0.1:8888/api/terminals?_=1587280155523
+             << 200 OK 15b
+10.0.0.2:43120: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155524
+10.0.0.2:43120: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155524
+             << 200 OK 3.08k
+10.0.0.2:43118: clientdisconnect
+10.0.0.2:43120: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:43534: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155525
+10.0.0.2:43534: GET http://127.0.0.1:8888/api/sessions?_=1587280155525
+             << 200 OK 400b
+10.0.0.2:43534: clientdisconnect
+10.0.0.2:43536: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155527
+10.0.0.2:43536: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155527
+             << 200 OK 3.08k
+10.0.0.2:43538: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155526
+10.0.0.2:43538: GET http://127.0.0.1:8888/api/terminals?_=1587280155526
+             << 200 OK 15b
+10.0.0.2:43536: clientdisconnect
+10.0.0.2:43538: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:44062: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155528
+10.0.0.2:44062: GET http://127.0.0.1:8888/api/sessions?_=1587280155528
+             << 200 OK 400b
+10.0.0.2:44062: clientdisconnect
+10.0.0.2:44064: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155529
+10.0.0.2:44064: GET http://127.0.0.1:8888/api/terminals?_=1587280155529
+             << 200 OK 15b
+10.0.0.2:44076: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155530
+10.0.0.2:44076: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155530
+             << 200 OK 3.08k
+10.0.0.2:44064: clientdisconnect
+10.0.0.2:44076: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:44536: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155531
+10.0.0.2:44536: GET http://127.0.0.1:8888/api/sessions?_=1587280155531
+             << 200 OK 400b
+10.0.0.2:44536: clientdisconnect
+10.0.0.2:44538: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155532
+10.0.0.2:44538: GET http://127.0.0.1:8888/api/terminals?_=1587280155532
+             << 200 OK 15b
+10.0.0.2:44542: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155533
+10.0.0.2:44542: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155533
+             << 200 OK 3.08k
+10.0.0.2:44538: clientdisconnect
+10.0.0.2:44542: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+10.0.0.2:45054: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155534
+10.0.0.2:45054: GET http://127.0.0.1:8888/api/sessions?_=1587280155534
+             << 200 OK 400b
+10.0.0.2:45054: clientdisconnect
+10.0.0.2:45056: clientconnect
+10.0.0.2:45058: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155535
+10.0.0.2:45056: GET http://127.0.0.1:8888/api/terminals?_=1587280155535
+             << 200 OK 15b
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155536
+10.0.0.2:45058: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155536
+             << 200 OK 3.08k
+10.0.0.2:45056: clientdisconnect
+10.0.0.2:45058: clientdisconnect
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:45404: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189250
+10.0.0.2:45404: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189250
+             << 200 OK 293b
+10.0.0.2:45404: clientdisconnect
+10.0.0.2:45410: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:45410: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:45410: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:45506: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155537
+10.0.0.2:45506: GET http://127.0.0.1:8888/api/sessions?_=1587280155537
+             << 200 OK 400b
+10.0.0.2:45506: clientdisconnect
+10.0.0.2:45522: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155538
+10.0.0.2:45522: GET http://127.0.0.1:8888/api/terminals?_=1587280155538
+             << 200 OK 15b
+10.0.0.2:45524: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155539
+10.0.0.2:45524: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155539
+             << 200 OK 3.08k
+10.0.0.2:45522: clientdisconnect
+10.0.0.2:45524: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:45976: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155540
+10.0.0.2:45976: GET http://127.0.0.1:8888/api/sessions?_=1587280155540
+             << 200 OK 400b
+10.0.0.2:45976: clientdisconnect
+10.0.0.2:45990: clientconnect
+10.0.0.2:45992: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155541
+10.0.0.2:45990: GET http://127.0.0.1:8888/api/terminals?_=1587280155541
+             << 200 OK 15b
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155542
+10.0.0.2:45992: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155542
+             << 200 OK 3.08k
+10.0.0.2:45990: clientdisconnect
+10.0.0.2:45992: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:46428: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155543
+10.0.0.2:46428: GET http://127.0.0.1:8888/api/sessions?_=1587280155543
+             << 200 OK 400b
+10.0.0.2:46428: clientdisconnect
+10.0.0.2:46430: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155544
+10.0.0.2:46430: GET http://127.0.0.1:8888/api/terminals?_=1587280155544
+             << 200 OK 15b
+10.0.0.2:46432: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155545
+10.0.0.2:46432: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155545
+             << 200 OK 3.08k
+10.0.0.2:46430: clientdisconnect
+10.0.0.2:46432: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:47030: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155546
+10.0.0.2:47030: GET http://127.0.0.1:8888/api/sessions?_=1587280155546
+             << 200 OK 400b
+10.0.0.2:47030: clientdisconnect
+10.0.0.2:47034: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155547
+10.0.0.2:47034: GET http://127.0.0.1:8888/api/terminals?_=1587280155547
+             << 200 OK 15b
+10.0.0.2:47036: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155548
+10.0.0.2:47036: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155548
+             << 200 OK 3.08k
+10.0.0.2:47034: clientdisconnect
+10.0.0.2:47036: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:47456: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155549
+10.0.0.2:47456: GET http://127.0.0.1:8888/api/sessions?_=1587280155549
+             << 200 OK 400b
+10.0.0.2:47456: clientdisconnect
+10.0.0.2:47470: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155550
+10.0.0.2:47470: GET http://127.0.0.1:8888/api/terminals?_=1587280155550
+             << 200 OK 15b
+10.0.0.2:47472: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155551
+10.0.0.2:47472: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155551
+             << 200 OK 3.08k
+10.0.0.2:47470: clientdisconnect
+10.0.0.2:47472: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:48060: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155552
+10.0.0.2:48060: GET http://127.0.0.1:8888/api/sessions?_=1587280155552
+             << 200 OK 400b
+10.0.0.2:48060: clientdisconnect
+10.0.0.2:48064: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155553
+10.0.0.2:48064: GET http://127.0.0.1:8888/api/terminals?_=1587280155553
+             << 200 OK 15b
+10.0.0.2:48066: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155554
+10.0.0.2:48066: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155554
+             << 200 OK 3.08k
+10.0.0.2:48064: clientdisconnect
+10.0.0.2:48066: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:48578: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155555
+10.0.0.2:48578: GET http://127.0.0.1:8888/api/sessions?_=1587280155555
+             << 200 OK 400b
+10.0.0.2:48578: clientdisconnect
+10.0.0.2:48580: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155557
+10.0.0.2:48580: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155557
+             << 200 OK 3.08k
+10.0.0.2:48580: clientdisconnect
+10.0.0.2:48582: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155556
+10.0.0.2:48582: GET http://127.0.0.1:8888/api/terminals?_=1587280155556
+             << 200 OK 15b
+10.0.0.2:48582: clientdisconnect
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:48946: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189251
+10.0.0.2:48946: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189251
+             << 200 OK 293b
+10.0.0.2:48946: clientdisconnect
+10.0.0.2:48952: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:48952: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:48952: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:49066: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155558
+10.0.0.2:49066: GET http://127.0.0.1:8888/api/sessions?_=1587280155558
+             << 200 OK 400b
+10.0.0.2:49066: clientdisconnect
+10.0.0.2:49082: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155559
+10.0.0.2:49082: GET http://127.0.0.1:8888/api/terminals?_=1587280155559
+             << 200 OK 15b
+10.0.0.2:49084: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155560
+10.0.0.2:49084: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155560
+             << 200 OK 3.08k
+10.0.0.2:49082: clientdisconnect
+10.0.0.2:49084: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:49592: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155561
+10.0.0.2:49592: GET http://127.0.0.1:8888/api/sessions?_=1587280155561
+             << 200 OK 400b
+10.0.0.2:49592: clientdisconnect
+10.0.0.2:49596: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155562
+10.0.0.2:49596: GET http://127.0.0.1:8888/api/terminals?_=1587280155562
+             << 200 OK 15b
+10.0.0.2:49608: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155563
+10.0.0.2:49608: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155563
+             << 200 OK 3.08k
+10.0.0.2:49596: clientdisconnect
+10.0.0.2:49608: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:50110: clientconnect
+10.0.0.2:50112: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155565
+10.0.0.2:50110: GET http://127.0.0.1:8888/api/terminals?_=1587280155565
+             << 200 OK 15b
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155564
+10.0.0.2:50112: GET http://127.0.0.1:8888/api/sessions?_=1587280155564
+             << 200 OK 400b
+10.0.0.2:50110: clientdisconnect
+10.0.0.2:50112: clientdisconnect
+10.0.0.2:50114: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155566
+10.0.0.2:50114: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155566
+             << 200 OK 3.08k
+10.0.0.2:50114: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:50538: clientconnect
+10.0.0.2:50540: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155567
+10.0.0.2:50538: GET http://127.0.0.1:8888/api/sessions?_=1587280155567
+             << 200 OK 400b
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155568
+10.0.0.2:50540: GET http://127.0.0.1:8888/api/terminals?_=1587280155568
+             << 200 OK 15b
+10.0.0.2:50538: clientdisconnect
+10.0.0.2:50540: clientdisconnect
+10.0.0.2:50542: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155569
+10.0.0.2:50542: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155569
+             << 200 OK 3.08k
+10.0.0.2:50542: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:51112: clientconnect
+10.0.0.2:51114: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155571
+10.0.0.2:51114: GET http://127.0.0.1:8888/api/terminals?_=1587280155571
+             << 200 OK 15b
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155570
+10.0.0.2:51112: GET http://127.0.0.1:8888/api/sessions?_=1587280155570
+             << 200 OK 400b
+10.0.0.2:51114: clientdisconnect
+10.0.0.2:51112: clientdisconnect
+10.0.0.2:51128: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155572
+10.0.0.2:51128: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155572
+             << 200 OK 3.08k
+10.0.0.2:51128: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:52534: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189252
+10.0.0.2:52534: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189252
+             << 200 OK 293b
+10.0.0.2:52534: clientdisconnect
+10.0.0.2:52540: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:52540: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:52540: clientdisconnect
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+10.0.0.2:55636: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189253
+10.0.0.2:55636: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189253
+             << 200 OK 293b
+10.0.0.2:55636: clientdisconnect
+10.0.0.2:55652: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:55652: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:55652: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:58324: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189254
+10.0.0.2:58324: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189254
+             << 200 OK 293b
+10.0.0.2:58324: clientdisconnect
+10.0.0.2:58326: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:58326: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:58326: clientdisconnect
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:33112: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155573
+10.0.0.2:33112: GET http://127.0.0.1:8888/api/sessions?_=1587280155573
+             << 200 OK 400b
+10.0.0.2:33112: clientdisconnect
+10.0.0.2:33118: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155574
+10.0.0.2:33118: GET http://127.0.0.1:8888/api/terminals?_=1587280155574
+             << 200 OK 15b
+10.0.0.2:33120: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155575
+10.0.0.2:33120: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155575
+             << 200 OK 3.08k
+10.0.0.2:33118: clientdisconnect
+10.0.0.2:33120: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:33394: clientconnect
+10.0.0.2:33396: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155577
+10.0.0.2:33396: GET http://127.0.0.1:8888/api/terminals?_=1587280155577
+             << 200 OK 15b
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155576
+10.0.0.2:33394: GET http://127.0.0.1:8888/api/sessions?_=1587280155576
+             << 200 OK 400b
+10.0.0.2:33396: clientdisconnect
+10.0.0.2:33394: clientdisconnect
+10.0.0.2:33400: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155578
+10.0.0.2:33400: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155578
+             << 200 OK 3.08k
+10.0.0.2:33400: clientdisconnect
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:34080: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189255
+10.0.0.2:34080: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189255
+             << 200 OK 293b
+10.0.0.2:34080: clientdisconnect
+10.0.0.2:34086: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:34086: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:34086: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:38478: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189256
+10.0.0.2:38478: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189256
+             << 200 OK 293b
+10.0.0.2:38478: clientdisconnect
+10.0.0.2:38488: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:38488: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:38488: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:41228: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189257
+10.0.0.2:41228: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189257
+             << 200 OK 293b
+10.0.0.2:41228: clientdisconnect
+10.0.0.2:41230: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:41230: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:41230: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:44826: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189258
+10.0.0.2:44826: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189258
+             << 200 OK 293b
+10.0.0.2:44826: clientdisconnect
+10.0.0.2:44828: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:44828: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:44828: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:47158: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189259
+10.0.0.2:47158: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189259
+             << 200 OK 293b
+10.0.0.2:47158: clientdisconnect
+10.0.0.2:47160: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:47160: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:47160: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:51476: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189260
+10.0.0.2:51476: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189260
+             << 200 OK 293b
+10.0.0.2:51476: clientdisconnect
+10.0.0.2:51484: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:51484: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:51484: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:53512: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189261
+10.0.0.2:53512: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189261
+             << 200 OK 293b
+10.0.0.2:53512: clientdisconnect
+10.0.0.2:53514: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:53514: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:53514: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55900: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189262
+10.0.0.2:55900: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189262
+             << 200 OK 293b
+10.0.0.2:55900: clientdisconnect
+10.0.0.2:55902: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:55902: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:55902: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:58228: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189263
+10.0.0.2:58228: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189263
+             << 200 OK 293b
+10.0.0.2:58228: clientdisconnect
+10.0.0.2:58234: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:58234: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:58234: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:33490: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189264
+10.0.0.2:33490: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189264
+             << 200 OK 293b
+10.0.0.2:33490: clientdisconnect
+10.0.0.2:33496: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:33496: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:33496: clientdisconnect
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:55310 <- WebSocket 1 message <- 127.0.0.1:8888/api/kernels/9885aff7-ba5c-4956-b5f2-1f532cc70647/channels?session_id=a13ed2a0777c46bc8718094803950e7f
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:37812: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189265
+10.0.0.2:37812: GET http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb?content=0&_=1587173189265
+             << 200 OK 293b
+10.0.0.2:37812: clientdisconnect
+10.0.0.2:37816: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+10.0.0.2:37816: PUT http://127.0.0.1:8888/api/contents/inputresources/cycle_gan/CoronaHack_CycleGAN.ipynb
+             << 200 OK 293b
+10.0.0.2:37816: clientdisconnect
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
+10.0.0.2:38308: clientconnect
+DBE Capturer : No Content-Disposition for /api/sessions?_=1587280155579
+10.0.0.2:38308: GET http://127.0.0.1:8888/api/sessions?_=1587280155579
+             << 200 OK 400b
+10.0.0.2:38308: clientdisconnect
+10.0.0.2:38310: clientconnect
+DBE Capturer : No Content-Disposition for /api/terminals?_=1587280155580
+10.0.0.2:38310: GET http://127.0.0.1:8888/api/terminals?_=1587280155580
+             << 200 OK 15b
+10.0.0.2:38312: clientconnect
+DBE Capturer : No Content-Disposition for /api/contents/results?type=directory&_=1587280155581
+10.0.0.2:38312: GET http://127.0.0.1:8888/api/contents/results?type=directory&_=1587280155581
+             << 200 OK 3.08k
+10.0.0.2:38310: clientdisconnect
+10.0.0.2:38312: clientdisconnect
+::ffff:10.0.0.2:55310: Ping Received from server
+  -> 
+::ffff:10.0.0.2:55310: Pong Received from client
+  -> 
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 -> WebSocket 1 message -> 127.0.0.1:8888/terminals/websocket/1
+10.0.0.2:58706 <- WebSocket 1 message <- 127.0.0.1:8888/terminals/websocket/1
+::ffff:10.0.0.2:58706: Ping Received from server
+  -> 
+::ffff:10.0.0.2:58706: Pong Received from client
+  -> 
